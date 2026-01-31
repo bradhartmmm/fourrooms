@@ -191,7 +191,7 @@ Try these commands to make sure all skills are working:
 
 ### Test 1: Create another presentation
 ```
-/gamma "How to start a podcast in 2024"
+/gamma "How to start a podcast this year"
 ```
 
 ### Test 2: See what skills are available
