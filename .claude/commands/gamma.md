@@ -44,35 +44,32 @@ GAMMA_API_KEY=sk-gamma-xxxxx
 
 Get your key at: https://gamma.app/settings (Pro account required)
 
-### Step 2: Auto-Detect Theme (Don't Ask - Just Do)
+### Step 2: Select Theme (RANDOMIZE for Variety!)
 
-Analyze the content/topic and automatically select the best theme + image style:
+**IMPORTANT: Pick a theme at RANDOM from the options below.** Don't always default to the same one or everything looks like peach-colored slop. Variety is key!
 
-**Tech/AI/Automation topics:**
-- Theme: `borealis` (dark/cyan/teal)
-- Images: "futuristic technology, neon cyan, dark background, minimal"
+**Available themes - PICK ONE AT RANDOM each time:**
 
-**Business/Strategy/Frameworks:**
-- Theme: `atmosphere` (light, professional)
-- Images: "clean professional, warm lighting, business context, minimal"
+| Theme | Vibe | Best For |
+|-------|------|----------|
+| `borealis` | Dark, cyan/teal | Tech, AI, automation |
+| `aurora` | Dark, purple/blue | Creative, innovation |
+| `fluo` | Dark, neon green | Systems, processes |
+| `electric` | Vibrant, multi-color | Sales, marketing, energy |
+| `gamma` | Warm gradient | Leadership, personal dev |
+| `atmosphere` | Light, professional | Business, strategy |
 
-**Leadership/Personal Development:**
-- Theme: `gamma` (warm gradient)
-- Images: "inspiring, human connection, warm tones, aspirational"
+**How to choose:**
+1. If the topic strongly suggests a vibe (e.g., "AI automation" → dark theme), match it
+2. Otherwise, **randomly select** from the list above
+3. NEVER default to `atmosphere` every time - mix it up!
 
-**Sales/Marketing:**
-- Theme: `electric` (vibrant, energetic)
-- Images: "dynamic, engaging, bold colors, action-oriented"
+**Image style should match the theme:**
+- Dark themes → "futuristic, neon accents, dark background, minimal"
+- Light themes → "clean professional, warm lighting, minimal"
+- Vibrant themes → "dynamic, bold colors, action-oriented"
 
-**Operations/Systems/Processes:**
-- Theme: `fluo` (dark, structured)
-- Images: "organized, systematic, clean lines, workflow diagrams"
-
-**Default (when unclear):**
-- Theme: `atmosphere` (safest, most professional)
-- Images: "professional, clean, minimal, business context"
-
-**Key principle:** Match the vibe of the content. Don't default to dark/tech for everything.
+**Key principle:** Each presentation should feel fresh. Randomize!
 
 ### Step 3: Prepare the Content
 
