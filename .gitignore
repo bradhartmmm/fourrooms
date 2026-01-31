@@ -1,0 +1,37 @@
+# API Keys and Secrets
+.env
+!.env.example
+credentials/
+secrets/
+*credentials*.json
+*secrets*.json
+*token*.json
+/private/
+
+# Transcripts (local content)
+transcripts/
+!transcripts/.gitkeep
+
+# Media files
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.webm
+*.mov
+
+# Debug
+debug/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if any scripts need it)
+node_modules/

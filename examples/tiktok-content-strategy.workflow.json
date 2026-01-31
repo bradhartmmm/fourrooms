@@ -1,0 +1,115 @@
+{
+  "title": "TikTok Content Strategy for Business",
+  "source": "Mastering Short-Form Videos: TikTok Techniques with Keenya Kelly",
+  "outcome": "Create viral-worthy TikTok/Reels content that generates leads and sales for your business",
+  "inputs": [
+    {"name": "business_niche", "description": "Your business category (e.g., branding, coaching, hair care)", "required": true},
+    {"name": "target_audience", "description": "Who you're trying to reach (age, interests, pain points)", "required": true},
+    {"name": "product_or_service", "description": "What you're ultimately selling", "required": true},
+    {"name": "lead_magnet_link", "description": "URL to your opt-in or lead capture page", "required": false}
+  ],
+  "capabilities_needed": [
+    {
+      "capability": "video_recording",
+      "description": "Record vertical video (9:16 aspect ratio)",
+      "common_tools": ["iPhone", "Android Phone", "Any smartphone"],
+      "minimum_viable": "Smartphone with camera"
+    },
+    {
+      "capability": "video_editing",
+      "description": "Edit videos with jump cuts, captions, and effects",
+      "common_tools": ["CapCut", "InShot", "Adobe Premiere Rush"],
+      "minimum_viable": "CapCut (free)"
+    },
+    {
+      "capability": "content_platform",
+      "description": "Post and distribute vertical videos",
+      "common_tools": ["TikTok", "Instagram Reels", "YouTube Shorts", "Facebook Reels"],
+      "minimum_viable": "TikTok or Instagram"
+    },
+    {
+      "capability": "email_marketing",
+      "description": "Capture leads and nurture them via email",
+      "common_tools": ["ConvertKit", "Mailchimp", "ActiveCampaign"],
+      "minimum_viable": "Any email list provider"
+    }
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "Research your niche on TikTok",
+      "details": "Go to TikTok search (magnifying glass, upper right). Type 1-2 words describing what you do. Watch the top-performing content. Bookmark videos that resonate with you. Note what topics, hooks, and formats work best.",
+      "output": "List of 10-20 content ideas and successful formats in your niche"
+    },
+    {
+      "step_number": 2,
+      "action": "Understand the platform culture",
+      "details": "TikTok/Reels allow more creativity than LinkedIn or Facebook. You don't have to dance or be goofy, but understand what's working. Watch how others adapt trends for business purposes.",
+      "output": "Understanding of platform norms and creative possibilities"
+    },
+    {
+      "step_number": 3,
+      "action": "Identify relatable pain points",
+      "details": "List out everything your target audience deals with daily. What frustrations do they have? What scenarios happen to them regularly? These become your content topics.",
+      "output": "List of 20+ relatable scenarios for your audience"
+    },
+    {
+      "step_number": 4,
+      "action": "Create your hook",
+      "details": "You have 1-1.5 seconds to stop the scroll. Your hook can be: text on screen, the first image they see, or the first words you say. Make it compelling enough that they MUST watch.",
+      "output": "3-5 hook templates you can reuse"
+    },
+    {
+      "step_number": 5,
+      "action": "Record your video",
+      "details": "Start directly with your hook - no 'Hey guys!' or introductions. Keep it short (15-60 seconds ideal). Use jump cuts every 3-5 seconds to maintain attention. Change scenes/locations if possible.",
+      "output": "Raw video footage"
+    },
+    {
+      "step_number": 6,
+      "action": "Edit with CapCut",
+      "details": "Add captions (80% watch on mute). Add jump cuts between segments. Use trending sounds if relevant. Keep text readable and on-brand.",
+      "output": "Edited video ready to post"
+    },
+    {
+      "step_number": 7,
+      "action": "Add your call-to-action",
+      "details": "Include a link in your bio to capture leads. Use platform-specific tracking links to know where leads come from. Don't focus on making money from the video - focus on getting leads.",
+      "output": "Video with clear path to lead capture"
+    },
+    {
+      "step_number": 8,
+      "action": "Post and cross-post",
+      "details": "Post to TikTok, then repurpose to Instagram Reels, YouTube Shorts, and Facebook Reels. Same content, multiple platforms.",
+      "output": "Content distributed across all platforms"
+    },
+    {
+      "step_number": 9,
+      "action": "Adapt trends to your business",
+      "details": "When you see a trending sound or format, ask: 'How can I make this about my business?' Take the trend template and add your business-relevant text overlay or scenario.",
+      "output": "Trend-jacked content that's still on-brand"
+    },
+    {
+      "step_number": 10,
+      "action": "Nurture leads via email",
+      "details": "Once someone opts in from your link, sell them via email sequences. The video generates leads, the email converts them to customers.",
+      "output": "Sales from email follow-up"
+    }
+  ],
+  "estimated_time": "2-3 hours per week for content creation",
+  "automation_potential": "medium",
+  "key_principles": [
+    "People don't buy from videos - videos generate leads, email converts to sales",
+    "80% of viewers watch on mute - always use captions",
+    "You have 1-1.5 seconds to stop the scroll",
+    "Keep videos as short as possible - don't pad for length",
+    "Your audience IS on TikTok - they just might not be posting",
+    "Consistency beats virality - focus on leads, not follower count"
+  ],
+  "success_metrics": [
+    "Email list growth rate",
+    "Lead-to-customer conversion rate",
+    "Watch time / completion rate",
+    "Engagement (comments, shares, saves)"
+  ]
+}
