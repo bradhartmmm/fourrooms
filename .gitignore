@@ -1,5 +1,6 @@
 # API Keys and Secrets
-.env
+# Note: .env IS included intentionally for workshop demo key
+# .env  <-- commented out so demo key is shared
 !.env.example
 credentials/
 secrets/
